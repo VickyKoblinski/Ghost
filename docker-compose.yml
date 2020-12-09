@@ -5,5 +5,5 @@ services:
     environment:
       - server__host=0.0.0.0
     ports:
-      - "4200:4200"
       - "443:2368"
+      - "4200:4200"
